@@ -11,6 +11,7 @@ Python
 </p>
 
 ## Links
+-[Jupyter Notebooks](https://allendowney.github.io/ModSimPy)
 
 ## Installation
 - create venv : python3 -m venv venv --upgrade-deps
